@@ -9,7 +9,7 @@ MATLAB code of game mine clearance / 扫雷
 | mine_clearance_export.m   | export file           |
 
 Screenshot:
-![screenshot](./screenshots/screenshot.png?raw=true)
+![screenshot](./screenshot/screenshot.png?raw=true)
 
 ### Run
 
